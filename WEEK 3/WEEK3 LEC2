@@ -1,0 +1,29 @@
+| **Question** | **Answer** |
+|--------------|------------|
+| What are the three different approaches to GRC? | Governance, Risk, and Compliance (GRC) frameworks like COSO, COSO ERM, and COBIT. |
+| Which organizations benefit from using COSO or COBIT frameworks? | Large organizations benefit from these detailed frameworks. |
+| Should a startup in IIT Madras Research Park consider COSO ERM? | No, a small or mid-sized organization does not need to follow COSO ERM. |
+| What is critical for e-commerce businesses regarding risk management? | E-commerce businesses must manage cyber security risks due to their reliance on online interactions with customers. |
+| What is the major category of assets for technology organizations? | Cyber assets, including data and personnel, are the primary assets. |
+| What was the original British Standard for cybersecurity management? | BS 7799, which was later adopted by ISO. |
+| What is ISO/IEC 17799:2005 known for? | It contains 133 possible controls for cybersecurity management. |
+| What does ISO 27001 standardize? | It ensures that cybersecurity systems are active and follow a continuous improvement cycle (PDCA). |
+| What does PDCA stand for? | Plan, Do, Check, Act. |
+| What series of standards addresses cybersecurity management? | The ISO 27000 series of standards. |
+| How many standards are in the ISO 27000 series? | More than 50 standards addressing various cybersecurity management requirements. |
+| What is ISO 27799 focused on? | Information security management in healthcare, using ISO/IEC 27002 as a guide. |
+| How do ISO standards vary? | They are customized for specific verticals (e.g., healthcare) and horizontals (e.g., infrastructure management). |
+| What is a criticism of ISO standards in the U.S.? | ISO standards are not widely accepted, with NIST being the preferred standard for cybersecurity. |
+| What does NIST stand for? | National Institute of Standards and Technology. |
+| How are NIST standards different from ISO standards? | NIST standards are open and accessible, while ISO standards are proprietary and require payment. |
+| Why are NIST standards considered beneficial? | They are openly available for download and provide a range of standards for various technology fields. |
+| What are the two main types of software mentioned?                                                              | Open source software and proprietary software.                                                                |
+| Why are proprietary software companies like Microsoft and Oracle still prevalent?                              | Proprietary software often offers comprehensive support and services, which are crucial for implementation.  |
+| How do open source solutions generate revenue?                                                                  | Some open source software offers a free basic version but charges for premium versions or additional services. |
+| What is a significant factor that impacts the choice between open source and proprietary software?              | Support and service fulfillment are critical factors influencing adoption.                                    |
+| What is the reputation of standards like ISO compared to NIST?                                                 | ISO has a long-standing reputation in the market, while NIST is recognized but may require specialized expertise for implementation. |
+| Why is service more critical than product in today’s software market?                                          | The service aspect, including implementation and ongoing support, is essential for users rather than just acquiring the product. |
+| How can users familiarize themselves with NIST standards?                                                       | Users can access the NIST website for guides and standard specifications related to cybersecurity management.   |
+| What is the purpose of the discussion in the context of cybersecurity?                                         | To familiarize students with the frameworks and standards relevant to cybersecurity at a practical industry level. |
+| What case study will be discussed by the student groups?                                                       | The case of iPremier, which has three versions (A, B, and C), with a focus on version A in this discussion.   |
+| What year was the iPremier case updated?                                                                        | The iPremier case was updated around 2018.                                                                    |
